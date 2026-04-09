@@ -1,36 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi%20there!%20I'm%20Prerna%20Alkute%20%F0%9F%8C%B8&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi,%20I'm%20Prerna%20Alkute&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=60&descAlign=50" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=FF6EB4&center=true&vCenter=true&width=700&lines=✨+Data+Science+%26+ML+Enthusiast+✨;🌸+Computer+Vision+%7C+NLP+%7C+Deep+Learning;💜+PyTorch+%7C+TensorFlow+%7C+Scikit-learn;🌷+Turning+Data+into+Beautiful+Insights;💅+Building+Smart+Models+with+Style)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF6EB4&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Enthusiast;Computer+Vision+%7C+NLP+%7C+Deep+Learning;PyTorch+%7C+TensorFlow+%7C+Scikit-learn;Turning+Data+into+Meaningful+Insights;Building+Intelligent+Models+with+Purpose)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/💖-Open%20to%20Opportunities-FF69B4?style=for-the-badge)
-![](https://img.shields.io/badge/🌸-Data%20Science%20%26%20AI-FF85C1?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Open%20to%20Opportunities-FF69B4?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-FF85C1?style=for-the-badge)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Data Science" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🌸 About Me
+### About Me
 
-- 🔭 Working on **Computer Vision & NLP projects**
-- 🌱 Exploring **BERT, Hugging Face Transformers & PyTorch**
-- 💼 Seeking a **Data Science / AI** full-time role
-- 💬 Ask me about **ML, Deep Learning & Python**
-- 💌 Reach me at **prernavalkute@gmail.com**
-- ✨ Fun fact: I build models that understand images *and* language!
+- Deepening expertise in **Computer Vision & NLP**
+- Exploring **BERT, Hugging Face Transformers & PyTorch**
+- Seeking a **Data Science / AI** full-time role
+- Open to collaborate on challenging **ML & AI projects**
+- Reach me at **prernavalkute@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-### 💅 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -51,21 +50,21 @@
 
 ---
 
-### 🌷 Featured Projects
+### Featured Projects
 
 <div align="center">
 
-| 🌸 Project | 💬 Description | 🛠️ Tech |
+| Project | Description | Tech |
 |:---:|:---:|:---:|
-| [✨ spectral-ml-analysis](https://github.com/prernalkute/spectral-ml-analysis) | ML analysis of high-dimensional spectral data for regression & classification | Python, Scikit-learn |
-| [🖼️ tinyimagenet-cv-classification](https://github.com/prernalkute/tinyimagenet-computer-vision-classification) | TinyImageNet image classification with custom CNN | PyTorch, Jupyter |
-| [💬 nlp-story-analysis-bert](https://github.com/prernalkute/nlp-story-analysis-bert) | NLP pipeline: POS tagging, Word2Vec, BERT (87% acc), emotion detection | HuggingFace, BERT |
+| [spectral-ml-analysis](https://github.com/prernalkute/spectral-ml-analysis) | ML analysis of high-dimensional spectral data for regression & classification | Python, Scikit-learn |
+| [tinyimagenet-cv-classification](https://github.com/prernalkute/tinyimagenet-computer-vision-classification) | TinyImageNet image classification with custom CNN — dataset prep, training & evaluation | PyTorch, Jupyter |
+| [nlp-story-analysis-bert](https://github.com/prernalkute/nlp-story-analysis-bert) | NLP pipeline: POS tagging, Word2Vec, BERT-based classification (87% acc), emotion detection | HuggingFace, BERT |
 
 </div>
 
 ---
 
-### 💖 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -80,7 +79,7 @@
 
 ---
 
-### 🌸 GitHub Activity Graph
+### GitHub Activity
 
 <div align="center">
 
@@ -90,7 +89,7 @@
 
 ---
 
-### 💌 Connect With Me
+### Connect With Me
 
 <div align="center">
 
@@ -100,7 +99,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prernalkute&label=Profile+Views+🌸&color=FF69B4&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=prernalkute&label=Profile+Views&color=FF69B4&style=flat)
 
 </div>
 
