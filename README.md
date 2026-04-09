@@ -4,32 +4,41 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF6EB4&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Enthusiast;Computer+Vision+%7C+NLP+%7C+Deep+Learning;PyTorch+%7C+TensorFlow+%7C+Scikit-learn;Turning+Data+into+Meaningful+Insights;Building+Intelligent+Models+with+Purpose)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF6EB4&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Enthusiast;Computer+Vision+%7C+NLP+%7C+Deep+Learning;PyTorch+%7C+TensorFlow+%7C+Scikit-learn)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=26&pause=1000&color=c9409a&center=true&vCenter=true&width=700&lines=It's+not+a+bug+—+it's+an+undocumented+feature+%F0%9F%92%80;My+model+is+always+right+...+until+it+isn't;99+problems+but+overfitting+is+all+of+them;Debugging:+the+art+of+being+a+detective+in+a+crime+you+committed)](https://git.io/typing-svg)
 
 <br/>
 
 ![](https://img.shields.io/badge/Status-Open%20to%20Opportunities-FF69B4?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-FF85C1?style=for-the-badge)
+![](https://img.shields.io/badge/Mood-Powered%20by%20Chai%20%26%20Code-FFB6C1?style=for-the-badge)
 
 </div>
 
 ---
 
-<img align="right" alt="Data Science" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"/>
 
-### About Me
+### ✦ About Me
 
-- Deepening expertise in **Computer Vision & NLP**
-- Exploring **BERT, Hugging Face Transformers & PyTorch**
-- Seeking a **Data Science / AI** full-time role
-- Open to collaborate on challenging **ML & AI projects**
-- Reach me at **prernavalkute@gmail.com**
+```python
+prerna = {
+    "name"       : "Prerna Alkute",
+    "role"       : "Data Scientist & ML Engineer",
+    "currently"  : "Building CV & NLP models",
+    "exploring"  : ["BERT", "Hugging Face", "PyTorch"],
+    "goal"       : "Land a full-time Data Science / AI role",
+    "fun_fact"   : "I train models by day & debug dreams by night",
+    "contact"    : "prernavalkute@gmail.com"
+}
+```
 
 <br clear="right"/>
 
 ---
 
-### Tech Stack
+### ✦ Tech Stack
 
 <div align="center">
 
@@ -50,21 +59,80 @@
 
 ---
 
-### Featured Projects
+### ✦ Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech |
-|:---:|:---:|:---:|
-| [spectral-ml-analysis](https://github.com/prernalkute/spectral-ml-analysis) | ML analysis of high-dimensional spectral data for regression & classification | Python, Scikit-learn |
-| [tinyimagenet-cv-classification](https://github.com/prernalkute/tinyimagenet-computer-vision-classification) | TinyImageNet image classification with custom CNN — dataset prep, training & evaluation | PyTorch, Jupyter |
-| [nlp-story-analysis-bert](https://github.com/prernalkute/nlp-story-analysis-bert) | NLP pipeline: POS tagging, Word2Vec, BERT-based classification (87% acc), emotion detection | HuggingFace, BERT |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Spectral ML Analysis</h3>
+      <p align="center">
+        <a href="https://github.com/prernalkute/spectral-ml-analysis">
+          <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        High-dimensional spectral data analysis using <strong>Scikit-learn pipelines</strong> for regression & classification. Tackles the curse of dimensionality with elegant ML solutions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-FF85C1?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-FFB6C1?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖼️ TinyImageNet CV Classification</h3>
+      <p align="center">
+        <a href="https://github.com/prernalkute/tinyimagenet-computer-vision-classification">
+          <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Custom <strong>CNN built from scratch in PyTorch</strong> for TinyImageNet classification — from dataset prep to evaluation metrics & visualization.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-FF85C1?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-FFB6C1?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 NLP Story Analysis with BERT</h3>
+      <p align="center">
+        <a href="https://github.com/prernalkute/nlp-story-analysis-bert">
+          <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        End-to-end <strong>NLP pipeline</strong> — POS tagging, dependency parsing, Word2Vec & <strong>BERT-based text classification (87% acc)</strong> + emotion detection via HuggingFace Transformers.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/BERT-FF85C1?style=flat-square&logo=huggingface&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFB6C1?style=flat-square&logo=huggingface&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Coming Soon...</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/In%20Progress-FF69B4?style=for-the-badge"/>
+      </p>
+      <p align="center">
+        Currently brewing something exciting with <strong>Generative AI & LLMs</strong>. Stay tuned — good models take time! ☕
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LLMs-FF85C1?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GenAI-FFB6C1?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### GitHub Stats
+### ✦ GitHub Stats
 
 <div align="center">
 
@@ -79,7 +147,7 @@
 
 ---
 
-### GitHub Activity
+### ✦ GitHub Activity
 
 <div align="center">
 
@@ -89,7 +157,7 @@
 
 ---
 
-### Connect With Me
+### ✦ Connect With Me
 
 <div align="center">
 
